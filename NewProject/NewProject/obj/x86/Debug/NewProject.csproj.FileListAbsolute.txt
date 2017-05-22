@@ -1,0 +1,12 @@
+D:\Repo\NewProject\NewProject\bin\Debug\NewProject.exe
+D:\Repo\NewProject\NewProject\bin\Debug\NewProject.pdb
+D:\Repo\NewProject\NewProject\bin\Debug\mscorlib.dll
+D:\Repo\NewProject\NewProject\bin\Debug\ru\mscorlib.resources.dll
+D:\Repo\NewProject\NewProject\bin\Debug\normidna.nlp
+D:\Repo\NewProject\NewProject\bin\Debug\normnfc.nlp
+D:\Repo\NewProject\NewProject\bin\Debug\normnfd.nlp
+D:\Repo\NewProject\NewProject\bin\Debug\normnfkc.nlp
+D:\Repo\NewProject\NewProject\bin\Debug\normnfkd.nlp
+D:\Repo\NewProject\NewProject\obj\x86\Debug\NewProject.csprojResolveAssemblyReference.cache
+D:\Repo\NewProject\NewProject\obj\x86\Debug\NewProject.exe
+D:\Repo\NewProject\NewProject\obj\x86\Debug\NewProject.pdb
